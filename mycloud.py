@@ -27,6 +27,7 @@ library = [
     Song("D Rose", "Lil Pump"),
     Song("yung trappa + xsonsss - dope & kazantip 2007", "Yung Trappa x xsonsss"),
     Song("ESSKEETIT", "Lil Pump"),
+    Song("Я РОНЯЮ ЗАПАД", "FACE"),
     Song("Yung Trappa + PRADABLADER - ФЕЙКАМ ЗАВАЛИТЬ ЕБАЛО!!!", "Yung Trappa x PRADABLADER")
 ]
 playlists = {}
