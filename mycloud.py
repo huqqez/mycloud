@@ -28,7 +28,7 @@ library = [
     Song("yung trappa + xsonsss - dope & kazantip 2007", "Yung Trappa x xsonsss"),
     Song("ESSKEETIT", "Lil Pump"),
     Song("Я РОНЯЮ ЗАПАД", "FACE"),
-    Song("Yung Trappa + PRADABLADER - ФЕЙКАМ ЗАВАЛИТЬ ЕБАЛО!!!", "Yung Trappa x PRADABLADER")
+    Song("Yung Trappa + PRADABLADER - ФЕЙКАМ ЗАВАЛИТЬ...!!!", "Yung Trappa x PRADABLADER")
 ]
 playlists = {}
 try:
@@ -48,7 +48,7 @@ while True:
     print("6. Показать плейлист")
     print("7. Показать текст песни")
     print("8. Сохранить")
-    print("9. Выйти")
+    print("9. Выход")
     choice = input("Выберите пункт: ")
     if choice == "1":
         print("🎧═══════ МОЙ ПЛЕЙЛИСТ ═══════🎧")
